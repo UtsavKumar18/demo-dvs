@@ -5,7 +5,9 @@ dict = {
     'alice':[24 , 'F' , 'New York' ],
     'bob':[30 , 'M' , 'Los Angeles' ],
     'charlie':[22 , 'M' , 'Chicago' ],
-    'diana':[28 , 'F' , 'Miami' ]
+    'diana':[28 , 'F' , 'Miami' ],
+    'utsav':[26 , 'M' , 'San Francisco'],
+    
 }
 df = pd.DataFrame(dict)
 p = Path.cwd()
