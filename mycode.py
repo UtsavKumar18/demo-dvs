@@ -7,6 +7,7 @@ dict = {
     'charlie':[22 , 'M' , 'Chicago' ],
     'diana':[28 , 'F' , 'Miami' ],
     'utsav':[26 , 'M' , 'San Francisco'],
+    'spider':[5 , 'M' , 'Unknown']
     
 }
 df = pd.DataFrame(dict)
